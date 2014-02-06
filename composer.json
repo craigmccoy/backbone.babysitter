@@ -15,7 +15,8 @@
 		}
 	],
 	"require": {
-		"robloach/component-installer": "*"
+		"robloach/component-installer": "*",
+		"components/backbone": "1.1.*"
 	},
 	"extra": {
 		"component": {
