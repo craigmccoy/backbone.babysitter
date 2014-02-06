@@ -3,10 +3,10 @@
   	"description": "Manage child views in a Backbone.View.",
   	"keywords": ["backbone", "plugin", "computed", "field", "model", "client", "browser"],
   	"type": "component",
-	"homepage": "http://github.com/marionettejs/backbone.babysitter",
+	"homepage": "https://github.com/marionettejs/backbone.babysitter",
 	"license": "MIT",
 	"support": {
-		"issues": "http://github.com/marionettejs/backbone.babysitter/issues"
+		"issues": "https://github.com/marionettejs/backbone.babysitter/issues"
 	},
 	"authors": [
 		{
