@@ -1,0 +1,35 @@
+{
+	"name": "craigmccoy/backbone.babysitter",
+  	"description": "Manage child views in a Backbone.View.",
+  	"keywords": ["backbone", "plugin", "computed", "field", "model", "client", "browser"],
+  	"type": "component",
+	"homepage": "http://github.com/marionettejs/backbone.babysitter",
+	"license": "MIT",
+	"support": {
+		"issues": "http://github.com/marionettejs/backbone.babysitter/issues"
+	},
+	"authors": [
+		{
+			"name": "Derick Bailey",
+			"email": "marionettejs@gmail.com"
+		}
+	],
+	"require": {
+		"robloach/component-installer": "*"
+	},
+	"extra": {
+		"component": {
+			"scripts": [
+				"backbone.babysitter.js"
+			],
+			"files": [
+				"backbone.babysitter.min.js",
+				"backbone.babysitter.map"
+			],
+			"shim": {
+				"deps": ["backbone"],
+				"exports": "Backbone.Babysitter"
+			}
+		}
+	}
+}
