@@ -6,4 +6,4 @@ Shim repository for [Backbone.Babysitter](http://github.com/marionettejs/backbon
 Package Managers
 ----------------
 
-Coming soon...
+* [Composer](http://packagist.org/packages/craigmccoy/backbone.babysitter): `craigmccoy/backbone.babysitter`
